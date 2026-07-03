@@ -1,4 +1,4 @@
-# Stock Analyzer AI 📈🤖
+# Stock Analyzer 
 
 An AI-powered stock analysis platform that generates comprehensive investment reports using real-time market data. The application uses a multi-agent AI architecture (LangGraph) to research news, analyze financials, and provide definitive Buy/Hold/Sell recommendations.
 
@@ -18,7 +18,7 @@ An AI-powered stock analysis platform that generates comprehensive investment re
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### Prerequisites
 - Python 3.9+
