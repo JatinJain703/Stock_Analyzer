@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langgraph
+langchain-groq
+langchain-core
+yfinance
+requests
+beautifulsoup4
+pdfkit
+markdown
